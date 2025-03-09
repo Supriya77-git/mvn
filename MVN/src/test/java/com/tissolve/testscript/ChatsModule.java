@@ -27,6 +27,6 @@ public class ChatsModule {
 			String url = ele.getAttribute("href");
 			System.out.println(url);
 		}
-		Reporter.log("Hi",true);
+		Reporter.log("Hello",true);
 	}
 }
