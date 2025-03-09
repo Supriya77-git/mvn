@@ -5,12 +5,12 @@
       <![CDATA[Hi]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-03-08T13:25:49 IST" name="Suite" finished-at="2025-03-08T13:25:49 IST" duration-ms="40">
+  <suite started-at="2025-03-09T11:32:01 IST" name="Suite" finished-at="2025-03-09T11:32:01 IST" duration-ms="57">
     <groups>
     </groups>
-    <test started-at="2025-03-08T13:25:49 IST" name="Test" finished-at="2025-03-08T13:25:49 IST" duration-ms="40">
+    <test started-at="2025-03-09T11:32:01 IST" name="Test" finished-at="2025-03-09T11:32:01 IST" duration-ms="57">
       <class name="com.tissolve.testscript.ChatsModule">
-        <test-method signature="demo()[pri:0, instance:com.tissolve.testscript.ChatsModule@6cf0e0ba]" started-at="2025-03-08T13:25:49 IST" name="demo" finished-at="2025-03-08T13:25:49 IST" duration-ms="7" status="PASS">
+        <test-method signature="demo()[pri:0, instance:com.tissolve.testscript.ChatsModule@57a3af25]" started-at="2025-03-09T11:32:01 IST" name="demo" finished-at="2025-03-09T11:32:01 IST" duration-ms="16" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Hi]]>
